@@ -1,0 +1,6 @@
+# user define
+/results
+/_hdf5
+/dataset
+*.ipynb
+*copy.py
