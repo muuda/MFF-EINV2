@@ -74,7 +74,7 @@ You can find the training results in the directory `./results/out_train`.
 
 ### 3. Inference
 
-The prediction results and model outputs will be saved in the `. /result/out_infer` folder.
+The prediction results and model outputs will be saved in the `./results/out_infer` folder.
 
 ```bash
 bash ./scripts/infer.sh
